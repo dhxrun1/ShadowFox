@@ -43,19 +43,3 @@ During the internship, I completed four key projects:
 * **Unit Testing**: JUnit testing for reliable functionality
 * Problem-solving and **real-world project implementation**
 * Working with GUI, event handling, and CRUD operations
-
-## How to Run
-
-1. Clone the repository:
-
-   ```bash
-  https://github.com/dhxrun1/ShadowFox
-   ```
-2. Open the project in **IntelliJ IDEA / Eclipse**
-3. Run the Java files corresponding to each project
-4. Follow the instructions in each project folder
-
-## Acknowledgements
-
-* Thank you to **Shadowfox** for providing this internship opportunity.
-* Special thanks to the mentors and guides for their guidance and support.
